@@ -1,0 +1,6 @@
+[template]
+src = "index.html.tmpl"
+dest = "/templates/index.html.tmpl"
+keys = [
+    "/title/enabled",
+]

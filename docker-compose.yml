@@ -1,0 +1,6 @@
+app:
+    build: .
+    hostname: dockercon
+    domainname: demo.local
+    ports:
+        - "8080"
